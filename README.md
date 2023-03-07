@@ -1,2 +1,0 @@
-# danis
-Ejercicio 1 
